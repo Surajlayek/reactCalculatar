@@ -1,0 +1,25 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.calculator {
+  padding: 10px;
+  width: 250px;
+  border-radius: 10px;
+  background-color: black;
+  box-shadow: 10px 10px 20px;
+}
+body {
+  width: 100%;
+  background-color: rgb(6, 139, 255);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.edit {
+  color: white;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
